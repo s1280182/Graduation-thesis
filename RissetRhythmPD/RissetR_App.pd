@@ -1,0 +1,5 @@
+#N canvas 85 176 944 769 12;
+#X obj 21 93 RissetRhythm;
+#X obj 21 180 dac~;
+#X connect 0 0 1 0;
+#X connect 0 0 1 1;
